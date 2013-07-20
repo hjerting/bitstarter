@@ -1,0 +1,4 @@
+bitstarter
+==========
+
+The bitstarter project
